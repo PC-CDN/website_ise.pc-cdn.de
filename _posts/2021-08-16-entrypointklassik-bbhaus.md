@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2021-08-12 08:15:00
-categories: Quellennachweise Quellenangaben ISE IMAGE SOURCE EVIDENCE
+categories: Image
 title:  "entrypoint klassik Haus"
 thumbnail: bbhaus.jpg
 highresolutionimg: bbhaus.jpg
