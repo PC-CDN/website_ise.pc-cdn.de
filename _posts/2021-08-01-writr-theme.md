@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2021-08-01 04:07:11
-categories: Quellennachweise Quellenangaben ISE IMAGE SOURCE EVIDENCE
+categories: Template
 title:  "writr theme / diverse Grafiken"
 thumbnail: writr-theme-screenshot.png
 highresolutionimg: writr-theme-screenshot.png
