@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2021-08-19 08:15:00
-categories: Image
+categories: Image Maildomain
 title:  "Paper Cut Out Against Blue Sky"
 thumbnail: Family_Concept_-_Paper_Cut_Out_Against_Blue_Sky_-_48412252331-1.jpg
 highresolutionimg: Family_Concept_-_Paper_Cut_Out_Against_Blue_Sky_-_48412252331.jpg
