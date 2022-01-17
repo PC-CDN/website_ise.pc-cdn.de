@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2021-08-12 08:15:00
-categories: Quellennachweise Quellenangaben ISE IMAGE SOURCE EVIDENCE
+categories: Image
 title:  "Serverfarm"
 thumbnail: 320px-Rechenzentrum_Detail_Colocation_Farbe_orange_auf_blau_ändern.jpg
 highresolutionimg: Rechenzentrum_Detail_Colocation_Farbe_orange_auf_blau_ändern.jpg
