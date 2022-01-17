@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2018-07-29 08:15:00
-categories: Quellennachweise Quellenangaben ISE IMAGE SOURCE EVIDENCE
+categories: Image
 title:  "Matsimäe Pühajärv sügisel 2014"
 thumbnail: Matsimäe_Pühajärv-150x150.jpg
 highresolutionimg: Matsimäe_Pühajärv-300x201.jpg
