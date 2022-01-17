@@ -2,7 +2,7 @@
 layout: post
 lang: de
 date:   2022-01-02 03:04:05
-categories: Quellennachweise Quellenangaben ISE IMAGE SOURCE EVIDENCE
+categories: Template
 title:  "Template: astral by HTML5UP"
 thumbnail: astral.jpg
 highresolutionimg: astral.jpg
