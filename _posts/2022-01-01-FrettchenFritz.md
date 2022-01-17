@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2022-01-01 02:03:04
-categories: Quellennachweise Quellenangaben ISE IMAGE SOURCE EVIDENCE
+categories: Image
 title:  "Frettchen Fritz"
 thumbnail: Ferret_Frettchen_135170117.small.jpg
 highresolutionimg: Ferret_Frettchen_135170117.xxl.jpg
