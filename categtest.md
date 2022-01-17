@@ -40,7 +40,7 @@ Hier finden Sie Angaben zu den Quellen der verwendeten Bilder/Ressourcen. </p>
 
 
 
-<!-- categories 1/2 -->
+<!-- categories 1/2 
 <div id="archives">
  {% for category in site.categories %} 
 
@@ -54,7 +54,7 @@ Hier finden Sie Angaben zu den Quellen der verwendeten Bilder/Ressourcen. </p>
  <h3 class="category-head">{{ category_name }}</h3>
  <a name="{{ category_name | slugize }}"></a>
 
-<!-- /categories 1/2 -->
+ /categories 1/2 -->
 
 
 
@@ -96,12 +96,12 @@ Hier finden Sie Angaben zu den Quellen der verwendeten Bilder/Ressourcen. </p>
 
 
 
-<!-- categories 2/2 -->
+<!-- categories 2/2 
  </div>
 
  {% endfor %}
  </div>
-<!-- /categories 2/2 -->
+ /categories 2/2 -->
 
 
 
