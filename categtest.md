@@ -38,8 +38,11 @@ Hier finden Sie Angaben zu den Quellen der verwendeten Bilder/Ressourcen. </p>
 
 
 
-<!-- categories 1/2 -->
-<div id="archives">
+
+
+
+<ul class="posts">
+  {}% for post in site.posts %{}
  {% for category in site.categories %} 
 
  <div class="archive-group">
@@ -47,15 +50,6 @@ Hier finden Sie Angaben zu den Quellen der verwendeten Bilder/Ressourcen. </p>
 
 <h3 id="#{{ category_name | slugize }}">{{ category_name | slugize }}</h3> 
 
-<p></p>
-
-<!-- /categories 1/2 -->
-
-
-
-
-<ul class="posts">
-  {% for post in site.posts %}
 
 <article id="{{ post.id }}" class="{{ post.id }}{{ post.tags }} post type-post status-publish format-standard hentry">
 	<header class="entry-header">
