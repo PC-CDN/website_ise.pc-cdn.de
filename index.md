@@ -5,7 +5,7 @@ title: ise.pc-cdn.de - Quellennachweise
 
 <div id="home">
   <h1>verwendete Grafiken/Ressourcen</h1>
-<p>Ein Teil der im Netzwerk von  {{ site.label }} verwendeten Bilder sowie andere Ressourcen stammt von diversen Quellen / Bilderdiensten. <br />
+<p>Ein Teil der im {{ site.label }} verwendeten Bilder sowie andere Ressourcen stammt von diversen Quellen / Bilderdiensten. <br />
 Das Copyright dieser Bilder und sonstigen Ressourcen liegt bei den jeweiligen Urheber. <br />
 Hier finden Sie Angaben zu den Quellen der verwendeten Bilder/Ressourcen. </p>
 
