@@ -2,7 +2,7 @@
 layout: post
 date:   2021-08-01 04:07:11
 categories: Template
-title:  "writr theme / diverse Grafiken"
+title:  "writr"
 thumbnail: writr-theme-screenshot.png
 highresolutionimg: writr-theme-screenshot.png
 ---
