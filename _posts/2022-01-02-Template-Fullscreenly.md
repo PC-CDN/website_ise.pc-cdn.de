@@ -2,7 +2,7 @@
 layout: post
 date:   2022-01-02 03:04:05
 categories: Quellennachweise Quellenangaben ISE IMAGE SOURCE EVIDENCE
-title:  "Fullscreenly Template"
+title:  "Template: Fullscreenly"
 thumbnail: Fullscreenly.small.png
 highresolutionimg: Fullscreenly.xxl.png
 ---
