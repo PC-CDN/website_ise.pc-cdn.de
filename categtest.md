@@ -26,9 +26,9 @@ Hier finden Sie Angaben zu den Quellen der verwendeten Bilder/Ressourcen. </p>
 
 <p></p>
 
- <h3 class="category-head">
+ <h2 class="category-head">
   <a href="#{{ category_name | slugize }}" name="{{ category_name | slugize }}">{{ category_name | slugize }}</a>
- </h3>
+ </h2>
  </div>
 
  {% endfor %}
