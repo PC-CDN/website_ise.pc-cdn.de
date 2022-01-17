@@ -2,8 +2,8 @@
 layout: post
 lang: de
 date:   2022-01-02 03:04:05
-categories: Quellennachweise Quellenangaben ISE IMAGE SOURCE EVIDENCE
-title:  "Template: hyperspace by HTML5UP"
+categories: Template
+Title:  "Template: hyperspace by HTML5UP"
 thumbnail: hyperspace.jpg
 highresolutionimg: hyperspace.jpg
 ---
