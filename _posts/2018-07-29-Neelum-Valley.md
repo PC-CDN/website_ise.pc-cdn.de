@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2018-07-29 08:15:00
-categories: Quellennachweise Quellenangaben ISE IMAGE SOURCE EVIDENCE
+categories: Image
 title:  "Neelum Valley"
 thumbnail: Neelum_Valley_Azad_Jammu__Kashmir_Pak-150x150.jpg
 highresolutionimg: Neelum_Valley_Azad_Jammu__Kashmir_Pak-300x200.jpg
