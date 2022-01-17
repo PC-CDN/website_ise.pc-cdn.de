@@ -9,6 +9,7 @@ permalink: /:year/:month/:day/:title:output_ext
 excerpt_separator: <!--more-->
 templateserverurl: https://template.pc-cdn.de
 themecolor: blue
+themelogo: https://template.pc-cdn.de/assets/img/logo/logo.png
 dummyimage: overlay-pattern.png
 themeURI: none
 themeBGimage: none
