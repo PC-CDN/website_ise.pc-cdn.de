@@ -3,7 +3,7 @@ layout: default
 permalink: /categories/list/index.html 
 title: Categories 
 --- 
-
+<!-- categories 1/2 -->
 <div id="archives">
  {% for category in site.categories %} 
 
@@ -16,15 +16,14 @@ title: Categories
 
  <h3 class="category-head">{{ category_name }}</h3>
  <a name="{{ category_name | slugize }}"></a>
-<!--
- {% for post in site.categories[category_name] %}
- <article class="archive-item"> 
-  <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4> 
- </article>
 
- {% endfor %}
--->
+<!-- /categories 1/2 -->
+
+
+
+<!-- categories 2/2 -->
  </div>
 
  {% endfor %}
  </div>
+<!-- /categories 2/2 -->
