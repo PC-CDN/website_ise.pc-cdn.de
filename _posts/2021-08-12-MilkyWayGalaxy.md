@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2021-08-12 08:15:00
-categories: Image
+categories: Image Maildomain
 title:  "Milky way Galaxy seen from Amphu Laptsa Base Camp."
 thumbnail: Milky_Way_Galaxy_As_Seen_From_Amphulaptsa_Base_Camp.jpg
 highresolutionimg: 2560px-Milky_Way_Galaxy_As_Seen_From_Amphulaptsa_Base_Camp.jpg
