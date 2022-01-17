@@ -2,7 +2,7 @@
 layout: post
 lang: de
 date:   2022-01-02 03:04:05
-categories: Quellennachweise Quellenangaben ISE IMAGE SOURCE EVIDENCE
+categories: Template
 title:  "Template: aerial by HTML5UP"
 thumbnail: aerial.jpg
 highresolutionimg: aerial.jpg
