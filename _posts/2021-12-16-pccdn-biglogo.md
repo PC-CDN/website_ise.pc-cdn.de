@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2021-12-16 08:15:00
-categories: Quellennachweise Quellenangaben ISE IMAGE SOURCE EVIDENCE
+categories: Image
 title:  "pc-cdn extended Logo"
 thumbnail: pinterest_profile_330x330.png
 highresolutionimg: default_765x625.png
