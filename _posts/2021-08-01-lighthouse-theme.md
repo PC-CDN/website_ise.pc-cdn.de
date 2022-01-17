@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2021-08-01 04:07:11
-categories: Quellennachweise Quellenangaben ISE IMAGE SOURCE EVIDENCE
+categories: Template
 title:  "lighthouse theme / diverse Grafiken"
 thumbnail: lighthouse-theme.png
 highresolutionimg: lighthouse-theme.png
