@@ -19,22 +19,16 @@
 
 <nav class="categ-nav">
 Kategorie Auswahl:
-<ul>
-
 <!-- categories -->
-<div id="archives">
+<div id="archives"> 
+<ul>
  {% for category in site.categories %} 
- <div class="archive-group">
  {% capture category_name %}{{ category | first }}{% endcapture %} 
-<p></p>
- 
-  <a href="/categories/index.html#{{ category_name | slugize }}" name="{{ category_name | slugize }}">{{ category_name | slugize }}</a>
- 
- </div>
+  <li><a href="/categories/index.html#{{ category_name | slugize }}" name="{{ category_name | slugize }}">{{ category_name | slugize }}</a></li>
  {% endfor %}
- </div>
+</ul>
+</div>
 <!-- /categories -->
- </ul>
 </nav>
 
 
