@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2018-07-29 08:15:00
-categories: Image
+categories: Image Maildomain
 title:  "Colocasia esculenta leaf"
 thumbnail: 320px-2009_03_29Colocasia_esculenta467-150x150.jpg
 highresolutionimg: 320px-2009_03_29Colocasia_esculenta467-300x225.jpg
