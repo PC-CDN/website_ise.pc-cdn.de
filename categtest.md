@@ -22,8 +22,6 @@ Hier finden Sie Angaben zu den Quellen der verwendeten Bilder/Ressourcen. </p>
  <div class="archive-group">
  {% capture category_name %}{{ category | first }}{% endcapture %} 
 
-<div id="#{{ category_name | slugize }}"></div> 
-
 <p></p>
 
  <h2 class="category-head">
@@ -47,7 +45,7 @@ Hier finden Sie Angaben zu den Quellen der verwendeten Bilder/Ressourcen. </p>
  <div class="archive-group">
  {% capture category_name %}{{ category | first }}{% endcapture %} 
 
-<h3 id="#{{ category_name | slugize }}"></h3> 
+<h3 id="#{{ category_name | slugize }}">{{ category_name | slugize }}</h3> 
 
 <p></p>
 
