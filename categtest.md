@@ -25,3 +25,18 @@ layout: default
 
 
 
+<!-- categories 1/2 -->
+<div id="archives">
+ {% for category in site.categories %} 
+ <div class="archive-group">
+ {% capture category_name %}{{ category | first }}{% endcapture %} 
+<h3 id="#{{ category_name | slugize }}"></h3> 
+
+<!-- /categories 1/2 -->
+
+<!-- categories 2/2 -->
+ </div>
+
+ {% endfor %}
+ </div>
+<!-- /categories 2/2 -->
