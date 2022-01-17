@@ -28,7 +28,7 @@ Kategorie Auswahl:
  {% capture category_name %}{{ category | first }}{% endcapture %} 
 <p></p>
  
-  <a href="/categories.html#{{ category_name | slugize }}" name="{{ category_name | slugize }}">{{ category_name | slugize }}</a>
+  <a href="/categories/index.html#{{ category_name | slugize }}" name="{{ category_name | slugize }}">{{ category_name | slugize }}</a>
  
  </div>
  {% endfor %}
