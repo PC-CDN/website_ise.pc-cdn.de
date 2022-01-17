@@ -15,26 +15,6 @@ Hier finden Sie Angaben zu den Quellen der verwendeten Bilder/Ressourcen. </p>
 <hr>
 
 
-<!-- categories 
-<div id="archives">
- {% for category in site.categories %} 
-
- <div class="archive-group">
- {% capture category_name %}{{ category | first }}{% endcapture %} 
-
-<div id="#{{ category_name | slugize }}"></div> 
-
-<p></p>
-
- <h3 class="category-head">{{ category_name }}</h3>
- <a href="#{{ category_name | slugize }}" name="{{ category_name | slugize }}">{{ category_name | slugize }}</a>
- </div>
-
- {% endfor %}
- </div>
- /categories -->
-
-
 
 <ul class="posts">
   {% for post in site.posts %}
