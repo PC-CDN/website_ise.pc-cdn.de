@@ -2,7 +2,7 @@
 layout: post
 date:   2022-01-02 03:04:05
 categories: Template
-title:  "Template: Fullscreenly"
+title:  "Fullscreenly"
 thumbnail: Fullscreenly.small.png
 highresolutionimg: Fullscreenly.xxl.png
 ---
