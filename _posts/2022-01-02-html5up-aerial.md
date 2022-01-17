@@ -3,7 +3,8 @@ layout: post
 lang: de
 date:   2022-01-02 03:04:05
 categories: Template
-title:  "Template: aerial by HTML5UP"
+title:  "aerial by HTML5UP"
+permalink: /2022/01/02/html5up-aerial.html
 thumbnail: aerial.jpg
 highresolutionimg: aerial.jpg
 ---
