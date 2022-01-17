@@ -3,7 +3,7 @@ layout: post
 lang: de
 date:   2022-01-02 03:04:05
 categories: Template
-Title:  "Template: read only by HTML5UP"
+Title:  "read only by HTML5UP"
 thumbnail: read-only.jpg
 highresolutionimg: read-only.jpg
 ---
