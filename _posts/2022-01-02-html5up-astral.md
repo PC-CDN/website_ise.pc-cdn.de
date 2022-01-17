@@ -3,7 +3,7 @@ layout: post
 lang: de
 date:   2022-01-02 03:04:05
 categories: Template
-title:  "Template: astral by HTML5UP"
+title:  "astral by HTML5UP"
 thumbnail: astral.jpg
 highresolutionimg: astral.jpg
 ---
