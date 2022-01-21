@@ -14,7 +14,7 @@ title: Categories
 
 <p></p>
 
- <h3 class="category-head">{{ category_name }}</h3>
+ <h3 class="category-head" style="text-align: right !EXPLICIT">{{ category_name }}</h3>
  <a name="{{ category_name | slugize }}"></a>
 
 <!-- /categories 1/2 -->
