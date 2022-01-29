@@ -29,10 +29,6 @@ author: Christian Pfeiffer
 #  sort_field: 'date'
 #  sort_reverse: true
 
-
-
-defaults:
+licen-se:
  -
-values:
- licen-se:
-  GNU: "General Public License <BR/> TEST"
+ GNU: "General Public License <BR/> TEST"
