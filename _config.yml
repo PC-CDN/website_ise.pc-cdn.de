@@ -30,5 +30,10 @@ author: Christian Pfeiffer
 #  sort_reverse: true
 
 licen-se:
- GNU: "License - TEST"
- CC_BY-SA_3-0: "License - TEST"
+ CC_BY: "<h4>CC BY</h4>"
+ CC_BY-SA: "TEST!<h4>CC BY SA</h4>"
+ CC_BY-ND: "TEST!<h4>CC BY ND</h4>"
+ CC_BY-NC: "TEST!<h4>CC BY NC</h4>"
+ CC_BY-NC-SA: "TEST!<h4>CC BY NC SA</h4>"
+ CC_BY-NC-ND: "TEST!<h4>CC BY NC ND</h4>"
+ CC_ZERO: "TEST!<h4>CC0 (CC Zero)</h4>"
