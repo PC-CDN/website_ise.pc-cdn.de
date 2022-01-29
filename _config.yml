@@ -30,10 +30,10 @@ author: Christian Pfeiffer
 #  sort_reverse: true
 
 licen-se:
- CC_BY: "<h4>CC BY</h4>"
- CC_BY-SA: "TEST!<h4>CC BY SA</h4>"
- CC_BY-ND: "TEST!<h4>CC BY ND</h4>"
- CC_BY-NC: "TEST!<h4>CC BY NC</h4>"
- CC_BY-NC-SA: "TEST!<h4>CC BY NC SA</h4>"
- CC_BY-NC-ND: "TEST!<h4>CC BY NC ND</h4>"
- CC_ZERO: "TEST!<h4>CC0 (CC Zero)</h4>"
+ CC_BY: "<h4>CC BY</h4>Diese Lizenz erlaubt Dritten, ein Werk zu verbreiten, zu remixen, zu verbessern und darauf aufzubauen, auch kommerziell, solange der Urheber des Originals genannt wird."
+ CC_BY-SA: "<h4>CC BY SA</h4>Diese Lizenz erlaubt es Dritten, ein Werk zu verbreiten, zu remixen, zu verbessern und darauf aufzubauen, auch kommerziell, solange der Urheber des Originals genannt wird und die auf seinem Werk basierenden neuen Werke unter denselben Bedingungen veröffentlicht werden."
+ CC_BY-ND: "<h4>CC BY ND</h4>Diese Lizenz erlaubt Dritten die Weiterverbreitung des Werkes, kommerziell wie nicht-kommerziell, solange dies ohne Veränderungen und vollständig geschieht und der Urheber genannt wird."
+ CC_BY-NC: "<h4>CC BY NC</h4>Diese Lizenz erlaubt Dritten die Weiterverbreitung des Werkes, nicht-kommerziell, solange dies ohne Veränderungen und vollständig geschieht und der Urheber genannt wird."
+ CC_BY-NC-SA: "<h4>CC BY NC SA</h4>Diese Lizenz erlaubt es Dritten, ein Werk zu verbreiten, zu remixen, zu verbessern und darauf aufzubauen, nicht-kommerziell, solange der Urheber des Originals genannt wird und die auf seinem Werk basierenden neuen Werke unter denselben Bedingungen veröffentlicht werden."
+ CC_BY-NC-ND: "<h4>CC BY NC ND</h4>Diese Lizenz erlaubt Dritten die Weiterverbreitung des Werkes, nicht-kommerziell, solange dies ohne Veränderungen und vollständig geschieht und der Urheber genannt wird."
+ CC_ZERO: "<h4>CC0 (CC Zero)</h4>Verzicht auf alle urheberrechtlichen und verwandten Schutzrechte. (Bitte beachten Sie hierbei, dass dies nach dem deutschen Urheberrecht ausgeschlossen ist."
