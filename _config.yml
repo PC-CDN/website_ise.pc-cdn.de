@@ -28,3 +28,11 @@ author: Christian Pfeiffer
 #  limit: 0
 #  sort_field: 'date'
 #  sort_reverse: true
+
+
+
+defaults:
+ -
+values:
+ licen-se:
+  GNU: "General Public License <BR/> TEST"
