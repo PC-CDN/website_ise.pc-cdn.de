@@ -3,8 +3,8 @@ layout: post
 date:   2022-01-22 03:04:05
 categories: Image 
 title:  "Thestius Selina"
-thumbnail: overlay-pattern.png
-highresolutionimg: overlay-pattern.png
+thumbnail: Selina_hairstreak_320x213.jpg
+highresolutionimg: Selina_hairstreak_1280x853.jpg
 ---
 
 <div class="entry-content">
