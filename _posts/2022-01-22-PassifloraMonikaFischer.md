@@ -3,8 +3,8 @@ layout: post
 date:   2022-01-22 03:04:05
 categories: Image Maildomain
 title:  "Passiflora Monika Fischer"
-thumbnail: overlay-pattern.png
-highresolutionimg: overlay-pattern.png
+thumbnail: Passiflora_Monika_320.jpeg
+highresolutionimg: Passiflora_Monika_3888.jpeg
 ---
 
 <div class="entry-content">
