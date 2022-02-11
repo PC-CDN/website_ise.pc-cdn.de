@@ -7,7 +7,6 @@ Title:  "read only by HTML5UP"
 thumbnail: read-only.jpg
 highresolutionimg: read-only.jpg
 ---
-
 <div class="entry-content">
 
 <table style="font-size: xx-small" border="1" cellpadding="2">
