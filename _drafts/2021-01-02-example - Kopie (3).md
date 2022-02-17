@@ -1,10 +1,10 @@
 ---
 layout: post
-date:   2021-01-02 03:04:05
-categories: Quellennachweise Quellenangaben ISE IMAGE SOURCE EVIDENCE
-title:  "Lorem ipsum"
-thumbnail: overlay-pattern.png
-highresolutionimg: overlay-pattern.png
+date:   2022-02-17 03:04:05
+categories: Images
+title:  "Piktogramm Videoüberwachung nach DIN 3345"
+thumbnail: Piktogramm_DIN_33450.svg
+highresolutionimg: Piktogramm_DIN_33450.svg
 ---
 
 <div class="entry-content">
@@ -13,15 +13,20 @@ highresolutionimg: overlay-pattern.png
 <tbody>
 <tr>
 <th style="text-align: right" width="81"><strong>Source</strong></th>
-<td>Urheber</td>
+<td>Urheber bzw. Nutzungsrechtinhaber unbekannt</td>
 </tr>
 <tr>
 <th style="text-align: right" width="81"><strong>Quelle</strong></th>
-<td>url</td>
+<td>Deutsches Institut für Normung e.V. / viahttps://de.m.wikipedia.org/wiki/Datei:Piktogramm_Video%C3%BCberwachung_nach_DIN_33450.svg#mw-jump-to-license </td>
 </tr>
 <tr>
 <th style="text-align: right" width="81"><strong>Lizenz</strong></th>
-<td>Lizenztext</td>
+<td>
+Diese Datei erreicht nicht die für einen urheberrechtlichen Schutz nötige Schöpfungshöhe.
+
+Liegt eine einfache Wiedergabe vor, so erreicht sie ebenfalls nicht das „Mindestmaß an persönlicher Leistung“ (vgl. BGH GRUR 90, 669 – Bibelreproduktion), um den Leistungsschutz als Lichtbild genießen zu können.
+
+Die Befugnis zur Nutzung der Datei richtet sich daher nach Befugnis zur Nutzung des Originals. Die Datei ist folglich gemeinfrei.</td>
 </tr>
 </tbody>
 </table>
