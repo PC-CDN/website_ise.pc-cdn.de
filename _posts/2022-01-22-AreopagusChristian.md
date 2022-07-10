@@ -3,8 +3,8 @@ layout: post
 date:   2022-01-22 03:04:05
 categories: Image Maildomain
 title:  "Areopagus Christian"
-thumbnail: Passiflora_Monika_320.jpeg
-highresolutionimg: Passiflora_Monika_3888.jpeg
+thumbnail: 320px-The_wooden_Christian_cross_on_the_Areopagus_on_29_June_2020.jpg
+highresolutionimg: 1024px-The_wooden_Christian_cross_on_the_Areopagus_on_29_June_2020.jpg
 ---
 
 <div class="entry-content">
