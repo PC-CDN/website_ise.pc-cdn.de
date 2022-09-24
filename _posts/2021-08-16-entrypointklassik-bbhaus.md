@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2021-08-12 08:15:00
-categories: Image
+categories: Image Hausbau Hausbau-Blog 
 title:  "entrypoint klassik Haus"
 thumbnail: bbhaus.jpg
 highresolutionimg: bbhaus.jpg
