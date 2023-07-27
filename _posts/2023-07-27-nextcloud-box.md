@@ -3,8 +3,8 @@ layout: post
 date:   2023-07-27 08:15:00
 categories: Image
 title:  "Nextcloud Box"
-thumbnail: Nextcloud_Box_(31222318311)preview.png
-highresolutionimg: Nextcloud_Box_(31222318311).png
+thumbnail: Nextcloud_Box_31222318311preview.png
+highresolutionimg: Nextcloud_Box_31222318311.png
 ---
 
 <div class="entry-content">
